@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm mrirfan___07</h1>
 <h3 align="center">i am hacker and python programer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fst.depositphotos.com%2F1037238%2F4364%2Fv%2F600%2Fdepositphotos_43641985-stock-illustration-computer-programmer-working-on-his.jpg&imgrefurl=https%3A%2F%2Fdepositphotos.com%2Fvector-images%2Fprogrammer.html&tbnid=VtE5XdBUq3gVoM&vet=12ahUKEwirkq3KspX4AhX113MBHSkODfoQMygEegUIARDdAQ..i&docid=0hZGFE-JKjXwvM&w=600&h=400&q=coding%20animated%20images%20hd&ved=2ahUKEwirkq3KspX4AhX113MBHSkODfoQMygEegUIARDdAQ">
@@ -32,8 +32,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpython07&show_icons=true&locale=en&layout=compact" alt="mrpython07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrirfan___07&show_icons=true&locale=en&layout=compact" alt="mrpython07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrpython07&show_icons=true&locale=en" alt="mrpython07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrirfan___07&show_icons=true&locale=en" alt="mrpython07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpython07&" alt="mrpython07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrirfan___07&" alt="mrpython07" /></p>
