@@ -1,7 +1,6 @@
 [![MasterHead](https://t3.ftcdn.net/jpg/05/00/17/44/240_F_500174431_O5euXSmpriL6EWcI7se1siHrkNPJ9Z9i.jpg)]()
 <h1 align="center">Hi 👋, I'm mrirfan___07</h1>
 <h3 align="center">i am hacker and python programer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/04/06/44/06/240_F_406440606_qroAwIwm1eKvqNDKYsZcgKzRCLkYrymY.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrpython07&label=Profile%20views&color=0e75b6&style=flat" alt="mrpython07" /> </p>
 
@@ -32,8 +31,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrirfan___07&show_icons=true&locale=en&layout=compact" alt="mrpython07" /></p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/mrirfan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrirfan" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrirfan___07&show_icons=true&locale=en" alt="mrpython07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpython07&show_icons=true&locale=en&layout=compact" alt="mrpython07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrirfan___07&" alt="mrpython07" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrpython07&show_icons=true&locale=en" alt="mrpython07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpython07&" alt="mrpython07" /></p>
