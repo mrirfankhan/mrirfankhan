@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **website projects**
 
-- 📫 How to reach me **mr07python@gmail.com**
+- 📫 How to reach me **erroegaming@gmail.com**
 
 - 📄 Know about my experiences [https://hackerone.com/mrirfan__07](https://hackerone.com/mrirfan__07)
 
