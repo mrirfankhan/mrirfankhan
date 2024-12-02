@@ -1,4 +1,4 @@
-![MasterHead](https://t3.ftcdn.net/jpg/05/00/17/44/240_F_500174431_O5euXSmpriL6EWcI7se1siHrkNPJ9Z9i.jpg)
+
 
 <h1 align="center">Hi 👋, I'm mrirfan___07</h1>
 <h3 align="center">I am a hacker and Python programmer from India</h3>
