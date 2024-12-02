@@ -1,13 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm mrirfan___07</h1>
-<h3 align="center">I am a hacker and Python programmer from India</h3>
+<h3 align="center">I am a hacker and Python programmer</h3>
 
-<p align="center">
-  <a href="https://tryhackme.com/p/1288594">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1288594" alt="TryHackMe Badge" />
-  </a>
-</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mrirfan07&label=Profile%20views&color=0e75b6&style=flat" alt="mrpython07" />
